@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">👨🏻‍💻 &nbsp;Sobre Mim</h2>
 
 - 👨🏻‍💻 &nbsp; Sou um Profissional de tecnologia muito prestativo e muito interessado em me desenvolver pessoal e profissionalmente, tenho um vasto conhecimento na área de tecnologia, um breve conhecimento na área de eletrônica e elétrica. Em meu último emprego atuei por 3 anos em suporte técnico, gerenciamento de sistemas, análise de relatórios e desenvolvimento de sites. Meu último projeto foi desenvolvido em WordPress, enfrentando o desafio de usar a ferramenta pela primeira vez.
 - 🚀 &nbsp; Atualmente meu foco principal é ingressar na area de desenvolvimento Web com foco em fron-end, pórem também me interesso muito pelo que acontece por de tras das coisas, ser programador full-stack não está fora de cogitação.
